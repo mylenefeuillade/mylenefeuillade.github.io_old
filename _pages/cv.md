@@ -39,15 +39,24 @@ Work experience
 
 Skills
 ======
-* R
-* Stata
-* SAS
-* 
+* R (expert)
+* Stata (expert)
+* SAS (intermediate)
   
 Teaching
 ======
- * Fall 2021, Spring 2022: Introduction to Econometrics, 2nd year bachelor 
-
+ * Sciences Po, Winter 2022: Research Frontier in Economics
+   * Winter workshop for 2nd year Bachelor students
+ * Sciences Po, Fall 2021, Spring 2022: Introduction to Econometrics
+   * 2nd year Bachelor
+   * [Class material](https://github.com/ScPoEcon/ScPoEconometrics-Slides)
+ * Sciences Po, Spring 2021: TA, Rational Expectations and Macroeconomics
+   * 1st year Master
+   * Taught by Mirko Weiderholt
+ * INSEAD, Fall 2021: TA, Prices and Markets
+   * MBA
+   * Taught by Lucia del Carpio   
+   
  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
