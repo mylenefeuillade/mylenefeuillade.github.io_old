@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Sciences Po's department of Economics. I work on topics of urban economics, under the supervision of Pierre-Philippe Combes.
+I am a PhD student in [Sciences Po's department of Economics](https://www.sciencespo.fr/department-economics/en.html). I work on topics of urban economics, under the supervision of [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/).
