@@ -7,7 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-
+ * *Sciences Po*, Spring 2023: **TA, Economics of Discrimination**
+   * 1st year Master
+   * Taught by Ghazala Azmat and Claire Montialoux
+   
+ * *Sciences Po*, Fall 2022: **Quantitative and mathematic methods for social sciences**
+   * First year Bachelor
+   * Introductory level math class
+   
  * *Sciences Po*, Winter 2022: **Research Frontier in Economics**
    * Winter workshop for 2nd year Bachelor students
    
