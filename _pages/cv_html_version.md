@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my pdf resume](files/Feuillade_CV.pdf)
-
 Education
 ======
 * 2020 - Present: Phd in Economics, Sciences Po
