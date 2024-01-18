@@ -320,7 +320,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 .publications {
   margin-top: 2rem;
   h1 {
-    color: var(--global-theme-color);
+    color: $info-color;
     font-size: 2rem;
     text-align: center;
     margin-top: 1em;
@@ -333,7 +333,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     }
   }
   h2.year {
-    color: $grey-color-light;
+    color: $light-gray;
     border-top: 1px solid $light-gray;
     padding-top: 1rem;
     margin-top: 2rem;
@@ -352,7 +352,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
         margin-bottom: 0.5rem;
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: $info-color;
           padding-left: 1rem;
           padding-right: 1rem;
           a {
@@ -363,8 +363,8 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
           }
         }
         .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
+          color: $info-color !important;
+          border: 1px solid $info-color;
         }
       }
       .title {
@@ -376,7 +376,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       }
       .author {
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          border-bottom: 1px dashed $info-color;
           &:hover {
               border-bottom-style: solid;
               text-decoration: none;
@@ -396,8 +396,8 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            color: $info-color;
+            border-color: $info-color;
           }
         }
       }
