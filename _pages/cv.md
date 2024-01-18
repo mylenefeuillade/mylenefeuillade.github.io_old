@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Download my resume: [here](https://mylenefeuillade.github.io/files/Feuillade_CV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-Download my resume: [here](https://mylenefeuillade.github.io/files/Feuillade_CV.pdf)
 
 Education
 ======
