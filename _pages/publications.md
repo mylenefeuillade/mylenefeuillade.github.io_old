@@ -9,24 +9,6 @@ nav: true
 publications: false
 ---
 
-### publications
-<div class="publications">
-
-  {% for y in page.years %}
-    <!-- <h2 class="year">{{y}}</h2> -->
-    {% bibliography -f papers -q @*[year={{y}}]* %}
-  {% endfor %}
-</div>
-
-### working papers
-<div class="publications">
-
-{% for y in page.years %}
-  <!-- <h2 class="year">{{y}}</h2> -->
-  {% bibliography -f working_papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
 
 ### ongoing research
 <div class="publications">
@@ -37,13 +19,5 @@ publications: false
 {% endfor %}
 
 </div>
-
-### pre-phd publications and policy reports
-<div class="publications">
-
-{% for y in page.years %}
-  <!-- <h2 class="year">{{y}}</h2> -->
-  {% bibliography -f policy -q @*[year={{y}}]* %}
-{% endfor %}
 
 </div>
