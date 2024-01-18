@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download my resume](https://mylenefeuillade.github.io/files/Feuillade_CV.pdf)
-
+Download my resume: [here](https://mylenefeuillade.github.io/files/Feuillade_CV.pdf)
 
 Education
 ======
