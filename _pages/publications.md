@@ -19,5 +19,3 @@ publications: false
 {% endfor %}
 
 </div>
-
-</div>
