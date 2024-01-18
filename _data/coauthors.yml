@@ -1,15 +1,15 @@
-# "Combes":
-  # - firstname: ["Pierre-Philippe", "PPh."]
-    # url: https://sites.google.com/view/pierrephilippecombes/
+"Combes":
+  - firstname: ["Pierre-Philippe", "PPh."]
+    url: https://sites.google.com/view/pierrephilippecombes/
 
-# "Gobillon":
-  # - firstname: ["Laurent", "L."]
-    # url: https://laurent.gobillon.free.fr/
-	
-# "Sotura":
-  # - firstname: ["Aurélie", "A."]
-    # url: https://sites.google.com/site/aureliesotura
-	
-# "Van Ypersele":
-  # - firstname: ["Tanguy", "T."]
-    # url: https://www.amse-aixmarseille.fr/fr/membres/van-ypersele
+"Gobillon":
+  - firstname: ["Laurent", "L."]
+    url: https://laurent.gobillon.free.fr/
+
+"Sotura":
+  - firstname: ["Aurélie", "A."]
+    url: https://sites.google.com/site/aureliesotura
+
+"Van Ypersele":
+  - firstname: ["Tanguy", "T."]
+    url: https://www.amse-aixmarseille.fr/fr/membres/van-ypersele
