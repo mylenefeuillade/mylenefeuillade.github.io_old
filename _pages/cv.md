@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my resume](https://mylenefeuillade.github.io/files/Feuillade_CV.pdf)
 
-[Download my pdf resume](../files/Feuillade_CV.pdf)
 
 Education
 ======
