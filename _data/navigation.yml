@@ -2,9 +2,6 @@
 main:
   - title: "Research"
     url: /research/
-    
-  - title: "Test research"
-    url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
