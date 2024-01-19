@@ -13,4 +13,14 @@ _site/
 .Rproj.user/AE36A571/sources/per/t/198174A2
 .Rproj.user/AE36A571/sources/per/t/198174A2-contents
 files/CV_Feuillade_Mylene.docx
-Gemfile
+
+_site
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.DS_store
+.ruby-version
+.tweet-cache
+Gemfile.lock
+vendor
