@@ -12,10 +12,10 @@ author_profile: true
 
 
 "Gender and the city: gaps in the urban wage premium"
-<h4> Abstract: The existence of an urban wage premium has been largely established by the urban economics litterature. However, despite many potential mechanism, there is no consensus on its heterogeneity by gender. In this paper, I adapt the standard two-step approach to estimate the urban wage premium by gender and marital status. I find that women benefit 50\% more than men from city density in terms of income. I also document that women experience a higher "big city employment premium": their probability of being unemploymed decreases 50% more with density than men’s. Finally, I show that these elasticities are not significantly different for married men or women than for single ones. </h4>
+<h4> Abstract: The existence of an urban wage premium has been largely established by the urban economics litterature. However, despite many potential mechanism, there is no consensus on its heterogeneity by gender. In this paper, I adapt the standard two-step approach to estimate the urban wage premium by gender and marital status. I find that women benefit 50\% more than men from city density in terms of income. I also document that women experience a higher "big city employment premium": their probability of being unemployed decreases 50% more with density than men’s. Finally, I show that these elasticities are not significantly different for married men or women than for single ones. </h4>
 
 
 "Within- and between- city real income disparities", with Pierre-Philippe Combes, Laurent Gobillon, Aurélie Sotura and Tanguy van Ypersele
 
-"National wage setting in France" with Dimitrije Ruzic and Lin Tian
+"National wage setting in France", with Dimitrije Ruzic and Lin Tian
  
